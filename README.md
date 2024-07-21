@@ -1,5 +1,5 @@
 # Welcome!
-## Test if it's connected
+## OK all good
 When I first learned Python nearly 27 years ago, I was immediately
 struck by how I could productively apply it to all sorts of messy work
 projects. Fast-forward a decade and I found myself teaching others the
